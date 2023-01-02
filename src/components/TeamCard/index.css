@@ -1,0 +1,31 @@
+.teamCard-cont {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  border: 1px #475569 solid;
+  margin-bottom: 25px;
+  border-radius: 10px;
+  height: 120px;
+  width: 310px;
+  margin-left: 30px;
+  margin-right: 30px;
+  background-color: #1e293b;
+  opacity: 1.5;
+}
+
+.team-image {
+  height: 80px;
+  width: 70;
+  padding-left: 15px;
+  padding-right: 45px;
+}
+
+.para {
+  font-size: 25px;
+}
+
+.link-items {
+  text-decoration: none;
+  color: #ffffff;
+}
